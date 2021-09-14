@@ -1,2 +1,2 @@
 # process-core
-The process blockchain core repository.
+ Process blockchain core repository.
